@@ -1,0 +1,1 @@
+print("Krishma","is","a","good","girl")
